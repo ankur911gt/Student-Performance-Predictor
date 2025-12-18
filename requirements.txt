@@ -1,0 +1,9 @@
+numpy
+pandas
+seaborn
+scikit-learn
+matplotlib
+scipy
+
+-e . 
+# Used to connect the current directory to the setup.py file
